@@ -1,0 +1,79 @@
+.text-muted {
+    text-decoration: none;
+}
+.text-dark {
+    text-decoration: none;
+}
+.text-body {
+    text-decoration: none;
+}
+.card-body a {
+    text-decoration: none;
+}
+.name-product {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.card-home img {
+    height: 250px;
+    transition: transform 1s;
+}
+.card-home img:hover {
+    transform: scale(1.2);
+}
+.card-header img {
+    height: 250px;
+    transition: transform 1s;
+}
+.card-header img:hover {
+    transform: scale(1.2);
+}
+.img-fluid img {
+    height: 250px;
+    transition: transform 1s;
+}
+.img-fluid img:hover {
+    transform: scale(1.2);
+}
+.hover-img-detail img {
+    transition: transform 1s;
+}
+.hover-img-detail img:hover{
+    transform: scale(1.2);
+}
+.category-hover img {
+    transition: transform 1s;
+}
+.category-hover img:hover{
+    transform: scale(1.2);
+}
+.text-reset p {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+body {
+    background-color: #f1f0f1 !important;
+}
+.navbar1 {
+    background-color: #d8d8d8  !important;
+   
+}
+.navbar2 {
+    background-color: #f1f0f1 !important;
+   
+}
+.logohome {
+    margin: 0;
+    font-size: 22px;
+    background: black;
+    padding: 10px 20px;
+    color: #fff;
+    min-width: 100%;
+    line-height: 1.;
+    display: inline-block;
+}
+.logo-navbar  img{
+    max-width: 70px;
+}
